@@ -1,0 +1,5 @@
+admin
+root
+estagiario
+dev_mobile
+teste
